@@ -38,7 +38,7 @@ name and first name are used.
 <p align="center">
   <img src="images/HA2.png" width=300 />
   &nbsp;
-  <img src="images/PM1-detail.png" width=300 />
+  <img src="images/HA2-detail.png" width=300 />
 </p>
 
 ### Day Planner
