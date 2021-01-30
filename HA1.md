@@ -2,6 +2,7 @@
 
 History:
 
+- Revised, 2021/01/23 -- Clarification per Piazza regarding column alignment
 - Released, 2021/01/11
 
 In this assignment we are:
@@ -46,8 +47,9 @@ The left column should be 375 pixels wide.
 
 It should contain a box with a two pixel `darkred` border with dashed lines
 and curved corners (the example shows 5% rounding). There should be at least
-ten pixels of spacing between the border and anything inside of it. The box
-should be aligned with the top of the dashed box in the right column. Inside
+ten pixels of spacing between the border and anything inside of it. ~~The box
+should be aligned with the top of the dashed box in the right column.~~ The 
+tops of the boxes of both columns should be aligned. Inside
 the box, include each label below in bold `darkred` with your answer in a
 normal weight font:
 
