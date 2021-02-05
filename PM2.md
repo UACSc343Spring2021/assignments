@@ -2,7 +2,7 @@
 
 Version History: 
 
-- Released 2020/02/05
+- Released 2021/02/05
 
 The subject of the project is either ann online ordering system for a
 restaurant [MENU] or an inventory system in a video game [GAME].
@@ -21,11 +21,11 @@ HTML tags like `<center>`, `<b>`, or `<i>` to alter visual appearance.
 Programmatically added SVG elements may have style attributes.
 
 Use the following link to create your github repository for this assignment:
-TBA []()
+[https://classroom.github.com/a/6SmEwJ7-](https://classroom.github.com/a/6SmEwJ7-)
 At the time of submission, your git repository should contain one HTML file
 named `PM2.html` as well as one CSS file named `PM2.css` and one JS file
 called `PM2.js`. It should also include any images or media needed for the
-report and `PM2.html`. This assignment is due Friday 2/16 at 11:59 PM. 
+report and `PM2.html`. This assignment is due Tuesday 2/16 at 11:59 PM. 
 
 ### Content
 
