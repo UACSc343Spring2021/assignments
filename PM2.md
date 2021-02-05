@@ -21,7 +21,7 @@ HTML tags like `<center>`, `<b>`, or `<i>` to alter visual appearance.
 Programmatically added SVG elements may have style attributes.
 
 Use the following link to create your github repository for this assignment:
-[https://classroom.github.com/a/nhcEZjk7](https://classroom.github.com/a/nhcEZjk7)
+TBA []()
 At the time of submission, your git repository should contain one HTML file
 named `PM2.html` as well as one CSS file named `PM2.css` and one JS file
 called `PM2.js`. It should also include any images or media needed for the
