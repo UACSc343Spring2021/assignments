@@ -2,7 +2,8 @@
 
 Version History: 
 
-- 2020/01/30 Released
+- 2021/02/04 Fixed category names
+- 2021/01/30 Released
 
 In this assignment, we are exercising:
 
@@ -69,11 +70,6 @@ On load, the day planner is empty and the default priority is 'Normal.' The
 user can change the priority by clicking on the buttons at the top.
 Appointments will have the priority last clicked. Switching priorities should
 not clear the text input.
-
-Note that each item is associated with one of three categories: `Work`,
-`School`, or `Play`. The item will have the category associated with the last
-category button clicked. On load, the default category is `Work`. Switching
-the category should not clear the text input.
 
 When a user clicks on a row in the day planner, a secondary detail view is
 shown to the right. This detail view lists all properties of the appointment
