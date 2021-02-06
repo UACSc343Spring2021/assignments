@@ -2,6 +2,7 @@
 
 Version History: 
 
+- 2021/02/06 Fixed movie link
 - 2021/02/04 Fixed category names
 - 2021/01/30 Released
 
@@ -82,7 +83,7 @@ clear the priority setting.
 
 
 **A video showing some of these functions is available in the `movies`
-directory.** See [PM1.mov](movies/PM1.mov)
+directory.** See [HA2.mov](movies/HA2.mov)
 
 #### Style
 
