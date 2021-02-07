@@ -2,6 +2,7 @@
 
 Version History: 
 
+- 2021/02/07 Clarified the ID property for the detail view is not required
 - 2021/02/06 Fixed movie link
 - 2021/02/04 Fixed category names
 - 2021/01/30 Released
@@ -117,8 +118,8 @@ row, with the property name in bold, followed by a colon, and then the
 property value. Along the left side is a 5 pixel gray column which
 differentiates this view from the Schedule view. The Detail view should align
 vertically with the Schedule view. My example has an additional internal 'ID'
-property which I am using to differentiate duplicates. This feature is not
-required by you and will not be graded in this assignment. 
+property which I am using to differentiate duplicates. This feature (the 'ID'
+property) is not required by you and will not be graded in this assignment. 
 
 ### Organization
 
