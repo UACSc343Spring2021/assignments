@@ -2,6 +2,7 @@
 
 Version History: 
 
+- 2021/02/09 Clarify text fields should be cleared after addAppointment
 - 2021/02/07 Clarified the ID property for the detail view is not required
 - 2021/02/06 Fixed movie link
 - 2021/02/04 Fixed category names
@@ -59,7 +60,7 @@ need to fill in the JS code, as well as create the HTML and CSS files.
 An appointment can be added using a text inputs and clicking the `Add
 Appointment` button. On click, the appointment is added to the schedule.
 Appointments should be shown ordered by hour. Any time 'Add Appointment' is
-clicked, the text fields should be clicked.
+clicked, the text fields should be cleared.
 
 The hour field should be an integer between 0 and 23. If the hour field is
 anything else, nothing should be added. Multiple appointments may be added at
