@@ -25,7 +25,7 @@ overlap and be unreadable on the grader's setup.
 This assignment is not meant to require external Javascript libraries.
 However, if you use external Javascript libraries, it should be included in
 the repository. Do not use a library that already implements a
-dayplanner/calenndar.  That is not the goal of this assignment. Do not forget
+dayplanner/calendar.  That is not the goal of this assignment. Do not forget
 to cite any borrowed code in your `HA3.js` document near where the borrowed
 code is used (other than the files from Piazza). The grader should not be
 expected to install anything. 
@@ -76,17 +76,17 @@ title, hour, and one of the following priority categories: High, Normal, or
 Tentative. Users should be able to see details of the appointment summarized
 and clear all items.
 
-If you prefer to do so AND justify it in your design rationale, you can replae
+If you prefer to do so AND justify it in your design rationale, you can replace
 an appointment's "hour" with a more specific time or the word "appointment"
 with something else.
 
 Additional functionality may be added to adhere to design principles. Again,
-this mustt be justified in your design rationale.
+this must be justified in your design rationale.
 
 
 #### Required Improvements from Class 
 
-1. The Set Prioriy UI should be improved.
+1. The Set Priority UI should be improved.
 
 2. Needs error recovery/handling.
 
@@ -103,7 +103,7 @@ design rationale.**
 
 Additionally, you may make any other changes to the interface design as long
 as functionality is preserved. Your design, whether you make changes or not,
-should be justied in the design rationale.
+should be justified in the design rationale.
 
 *These were sourced as the most important items during Lecture 9's breakout
 activities. (See the Google Doc linked in Lecture 9.)*
@@ -125,5 +125,5 @@ Your new design may use elements of the old design, but they should be
 justified.
 
 Each element of the design rationale is graded on thoroughness, with maximum
-points for a rationale that explains both functionality and presentation nand
+points for a rationale that explains both functionality and presentation and
 uses multiple forms of evidence (e.g., beyond design principles only).
