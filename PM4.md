@@ -1,8 +1,9 @@
-## Project Milestone 4 - Due Tuesday 3/16 @ 11:59 PM
+## Project Milestone 4 - Due Thurssday 3/18 @ 11:59 PM
 
 Version History: 
 
-- Released 2020/2/25
+- Updated due date 2021/3/1
+- Released 2021/2/25
 
 The team portion of this milestone is due Tuesday March 16, 11:59 PM (group)
 and thirty minutes later for the indvidual portion.
