@@ -1,4 +1,4 @@
-## Project Milestone 4 - Due Thurssday 3/18 @ 11:59 PM
+## Project Milestone 4 - Due Thursday 3/18 @ 11:59 PM
 
 Version History: 
 
