@@ -2,7 +2,8 @@
 
 Version History: 
 
-- Released 2020/2/19
+- RRevised 2021/3/2 - Allow bigger font sizes
+- Released 2021/2/19
 
 The subject of the project continues to be either:
 
@@ -228,7 +229,7 @@ accordion pattern) are:
   be used to help readability.
 - There should be some persistent way for us to navigate between sections.
 - The title should have your group name.  
-- The report content should be 640 pixels wide with a 12 point sans-serif
+- The report content should be 640 pixels wide with ann at-least-12-point sans-serif
   font for the report text.
 - Sections of the report and navigation should not occlude each other
 

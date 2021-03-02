@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Revised 2021/3/2 - allow bigger font sizes
 - Updated due date 2021/3/1
 - Released 2021/2/25
 
@@ -145,7 +146,7 @@ in PM3:
   be used to help readability.
 - There should be some persistent way for me to navigate between sections.
 - The title should have your group name.  
-- The report content should be 640 pixels wide with a 12 point sans-serif
+- The report content should be 640 pixels wide with an at-least-12-point sans-serif
   font for the report text.
 
 
