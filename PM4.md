@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Revised 2021/3/15 - fixed numbering of Section II
 - Revised 2021/3/2 - allow bigger font sizes
 - Updated due date 2021/3/1
 - Released 2021/2/25
@@ -91,10 +92,10 @@ You will be graded on the appropriateness of these materials (briefing,
 de-briefing, tasks, interview questions). You may include a Rationale
 sub-section to explain any choices you made.
 
-#### Section III: Observational Analysis (30 pts)
+#### Section II: Observational Analysis (30 pts)
 
 After conducting the observations, analyze the results of the observations and
-report on the analysis as described in Lecture 13. The expectation is that
+report on the analysis as described in Lecture 13 and Lecture 15. The expectation is that
 initial codes will be agreed upon early, at least two people will code the
 observations, it will be clear how the observations were coded (what units
 were used, what codes match which units), and groupings of related codes,
