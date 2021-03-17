@@ -7,3 +7,4 @@
 - [Homework Assignment 3](HA3.md) - Due Tuesday 2021/02/23 11:59 PM
 - [Project Milestone 3](PM3.md) - Due Tuesday 2021/03/02 11:59 PM
 - [Project Milestone 4](PM4.md) - Due Thursday 2021/03/18 11:59 PM
+- [Project Milestone 5](PM5.md) - Due Tuesday 2021/03/30 11:59 PM
