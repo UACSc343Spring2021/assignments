@@ -51,10 +51,10 @@ At the time of submission, it should contain a text file named
 Individual Evaluations below. This is a similar format used in previous PMs.
 The notes on how you may want to distribute the work are different. 
 
-### DEMO (5 pts)
+#### DEMO (5 pts)
 
 **Github changed its pricing model so I am removing this requirement. Everyone
-who participates with their group will get these points**
+who participates with their group will get these 5 points**
 
 
 
