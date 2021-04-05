@@ -30,7 +30,7 @@ HTML tags like `<center>`, `<b>`, or `<i>` to alter visual appearance.
 Programmatically added SVG elements may have style attributes.
 
 
-~~Create a team DEMO repository:
+<del>Create a team DEMO repository:
 [https://classroom.github.com/g/erOCbO9d](https://classroom.github.com/g/erOCbO9d).
 At the time of submission this repository should contain a file `index.html`
 which is the starting point for your interface. It should also contain any
@@ -39,7 +39,7 @@ demonstrate the interface. The `index.html` and other files should be in the
 `docs` directory.
 
 **If you want to change your team name, please ask the instructor to do so and
-make sure it is done before creating the demo repository.**~~
+make sure it is done before creating the demo repository.**</del>
 
 Create a team REPORT repository:
 [https://classroom.github.com/g/E6Ogxfvr](https://classroom.github.com/g/E6Ogxfvr).
