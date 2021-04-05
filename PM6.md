@@ -3,7 +3,8 @@
 
 Version History: 
 
-- Released 2019/3/27
+- Updated 2021/04/04 --- Remove DEMO due to Github pricing model changes
+- Released 2021/3/27
 
 The team portion of this milestone is due Tuesday April 13, 11:59 PM.
 
@@ -28,9 +29,8 @@ below. No style information should be in the HTML tags. Do not use
 HTML tags like `<center>`, `<b>`, or `<i>` to alter visual appearance.
 Programmatically added SVG elements may have style attributes.
 
-**You are creating three repositories this time!**
 
-Create a team DEMO repository:
+~~Create a team DEMO repository:
 [https://classroom.github.com/g/erOCbO9d](https://classroom.github.com/g/erOCbO9d).
 At the time of submission this repository should contain a file `index.html`
 which is the starting point for your interface. It should also contain any
@@ -39,7 +39,7 @@ demonstrate the interface. The `index.html` and other files should be in the
 `docs` directory.
 
 **If you want to change your team name, please ask the instructor to do so and
-make sure it is done before creating the demo repository.**
+make sure it is done before creating the demo repository.**~~
 
 Create a team REPORT repository:
 [https://classroom.github.com/g/E6Ogxfvr](https://classroom.github.com/g/E6Ogxfvr).
@@ -57,40 +57,9 @@ The notes on how you may want to distribute the work are different.
 
 ### DEMO (5 pts)
 
-Upload all the files necessary to run your interface to the DEMO repository.
-The `index.html` should be under a directory called `docs`.
+**Github changed its pricing model so I am removing this requirement. Everyone
+who participates with their group will get these points**
 
-Next make this available publicly, following these steps:
-
-**NOTE: I created this demo out of an individual classroom account, but you
-should do it out of your team's DEMO repository.**
-
-1. In your teams DEMO repository, go to `Settings`. This will automatically put
-   you in the `Options` menu.
-
-![](images/SettingsOptions.png)
-
-2. Scroll down to Github Pages. Change the dropdown from `None` to your
-   default branch (e.g., `main` or `master`) `/docs folder`
-
-![](images/GithubPages.png)
-
-3. The interface will change to `Your site is ready to be published at
-   https://uacsc343spring2021.github.io/[demo-teamname]/.` In a few minutes,
-your site should be available there.
-
-![](images/Ready.png)
-
-4. If it is not loading, reload the Settings/Options page to check if it has
-   been published. If so, try again.
-
-![](images/Published.png) 
-
-**While this is due at the time of the assignment, you may want to add it
-earlier so you can ask people to evaluate your interface remotely at this URL.**
-
-Later, for the project presentation, the class should be able to use your
-interface. You can update it after the assignment is due.
 
 
 
@@ -106,8 +75,9 @@ Do not evaluate using other members of the class. It is better to get new
 participants rather than to use the ones in PM4.
 
 One way to do the evaluation is through Zoom or other
-teleconferencing software. Have the participant go to the DEMO site and share
-their screen while you ask them to perform the tasks. One of you can be
+teleconferencing software. Have the participant a site hosting the files and share
+their screen while you ask them to perform the tasks. (You can also send them
+the files and have them open them locally.) One of you can be
 observing the screen while the other observes the facial expressions for the
 participant. If you record this session, please get the participant's consent
 ahead of time during the briefing.
@@ -118,7 +88,7 @@ The materials related to your evaluation should be included as below:
 ### Content - Header Information 
 
 At the top of your report, state the names of all the team members as well as
-your team name. Also include a link to your electronic prototype (DEMO).
+your team name. ~~Also include a link to your electronic prototype (DEMO).~~
 
 If you had a team member that was unresponsive, make a note of it here.
 
