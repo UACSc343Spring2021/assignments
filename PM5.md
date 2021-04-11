@@ -154,6 +154,11 @@ implemented by [library/framework of choice], MVVM, Flux, Redux, something homeg
 Describe how  the interface elements are divided in the code and what other
 structures exist (e.g., to hold state or logic).
 
+**Tie the names of your important functions or other structures in the code to
+your explanation of the Architecture. Consider a new programmer to the project
+who wants to see a particular structure, what would they search for in the
+code?**
+
 You may refer to the names put forth in this section for your individual
 evaluations when explaining everyone's contributions.
 

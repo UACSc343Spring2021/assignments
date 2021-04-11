@@ -11,3 +11,4 @@
 - [Homework Assignment 4](HA4.md) - Due Tuesday 2021/04/06 11:59 PM
 - [Project Milestone 6](PM6.md) - Due Tuesday 2021/04/13 11:59 PM
 - [Project Presentation](presentation.md) - Due **Monday 2021/04/19 9:30 AM**
+- [Project Milestone 7](PM7.md) - Due Tuesday 2021/05/04 11:59 PM
