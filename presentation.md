@@ -2,7 +2,8 @@
 
 Version History: 
 
-- Released 2020/4/10
+- Revised 2021/4/10 -- Add Google Form link
+- Released 2021/4/10
 
 Team presentation videos should be linked in a Piazza thread by 9:30 AM on
 Monday April 19th.
@@ -37,8 +38,7 @@ content described under Individual Evaluations below. This is the same format
 used in Project milestones.
 
 Individual feedback for other groups should be input at the following Google
-Form: (To be added once team names are confirmed. I will use the team names at
-the top of Project Milestone 6.) 
+Form: [https://forms.gle/QdBZFnWf7van7TKr9](https://forms.gle/QdBZFnWf7van7TKr9).
 
 
 ### Group: Presentation thread
