@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Revised 2021/4/17 -- Remove stray github pages demo requirement. Linking to a live site is optional.
 - Revised 2021/4/10 -- Add Google Form link
 - Released 2021/4/10
 
