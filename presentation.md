@@ -48,7 +48,7 @@ Form: [https://forms.gle/QdBZFnWf7van7TKr9](https://forms.gle/QdBZFnWf7van7TKr9)
 Create a thread on Piazza titled: `[Group Name] Presentation`.
 
 In that thread, include a link to a presentation video (content described
-below) and a link to your github demo site. **You can host the video where you
+below). **You can host the video where you
 choose (e.g., Vimeo, Box, Google Drive, YouTube, DropBox). If you host it with
 restrictions, please set to accept both email.arizona.edu and cs.arizona.edu
 accounts.**
