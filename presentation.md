@@ -52,7 +52,7 @@ In that thread, include a link to a presentation video (content described
 below). **You can host the video where you
 choose (e.g., Vimeo, Box, Google Drive, YouTube, DropBox). If you host it with
 restrictions, please set to accept both email.arizona.edu and cs.arizona.edu
-accounts.**
+accounts.** Optionally you may also include an image of the prototype and/or a link to a live demonstration.
 
 How you record the representation is up to you. You are not required to show
 video of yourself, but each team member should speak during the presentation
@@ -117,7 +117,8 @@ of the presentation.
 
 Please submit 5 of these by **Tuesday April 20th at 11:59 PM**, 5 by **Monday
 April 26th at 11:59PM** and 4 by **Wednesday April 28th at 11:59PM**. Do not
-submit one for your own group.
+submit one for your own group. You may submit these in any order. For example, if 
+you did a GAME project, you may want to do all the GAME presentations first.
 
 After the presentations, you will be asked for **constructive** criticism
 (what you think is good about the design, what you think could be improved in
